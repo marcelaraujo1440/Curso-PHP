@@ -21,9 +21,9 @@
      </nav>
    <main class="principal">
         <div class="conteudo">
-           <?php
-               include('teste/teste.php')
-               ?>
+        <?php
+          include("{$_GET['dir']}/{$_GET['file']}.php");
+          ?>
               
         </div>
    </main>
