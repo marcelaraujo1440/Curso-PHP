@@ -7,9 +7,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Marmelad&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
     <title>Exercicios </title>
-    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="/assets/exercicios.css">
 </head>
-<body>
+<body class="exercicio">
    <header class="cabeçalho">
         <h1>Curso PHP</h1>
         <h2>Vizualição do Exercicios</h2>
@@ -17,7 +17,10 @@
 
    <main class="principal">
         <div class="conteudo">
-           
+           <nav class="navegacao">
+                <a href="#" class="verde">Sem formatação</a>
+                <a href="index.php" class="vermelho">Voltar</a>
+           </nav>
               
         </div>
    </main>
