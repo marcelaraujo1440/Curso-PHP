@@ -5,7 +5,6 @@ body.exercicios{
 
 .principal{
     height: calc(100vh - 240px);
-
 }
 .navegacao{
     grid-area: navegacao;
@@ -20,5 +19,13 @@ body.exercicios{
     color:  white;
     font: 300;
     font-size: 1.3rem;
-    background-color: #2196f3
+    background-color: #2196f3;
+    padding: 5px 10px;
+    margin-right: 10px;
+    
 }
+
+
+.navegacao > a.verde{background-color: #4caf50; }
+
+.navegacao > a.vermelho{background-color: #F44336; }

@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Marmelad&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
     <title>Exercicios </title>
     <link rel="stylesheet" href="/assets/exercicios.css">
+    <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body class="exercicio">
    <header class="cabeçalho">
