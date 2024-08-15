@@ -21,7 +21,7 @@
                <div class="modulo verde">
                     <h3>modulo 01</h3>
                     <ul>
-                         <li><a href="#">Exercicio A</a></li>
+                         <li><a href="exercicios.php">Exercicio A</a></li>
                          <li><a href="#">Exercicio B</a></li>
                          <li><a href="#">Exercicio C</a></li>
                     </ul>
