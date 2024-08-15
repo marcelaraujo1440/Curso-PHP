@@ -15,13 +15,15 @@
         <h1>Curso PHP</h1>
         <h2>Vizualição do Exercicios</h2>
    </header>
-
-   <main class="principal">
-        <div class="conteudo">
-           <nav class="navegacao">
+     <nav class="navegacao">
                 <a href="#" class="verde">Sem formatação</a>
                 <a href="index.php" class="vermelho">Voltar</a>
-           </nav>
+     </nav>
+   <main class="principal">
+        <div class="conteudo">
+           <?php
+               include('teste/teste.php')
+               ?>
               
         </div>
    </main>
